@@ -1,0 +1,14 @@
+{
+  "access_token": "PEGAR_TOKEN_AQUI_O_USAR_FB_ACCESS_TOKEN",
+  "group_ids": [
+    "123456789012345",
+    "987654321098765"
+  ],
+  "keywords": [
+    "consultoría académica",
+    "consultoria academica",
+    "asesoría de tesis",
+    "tesis",
+    "trabajos universitarios"
+  ]
+}
